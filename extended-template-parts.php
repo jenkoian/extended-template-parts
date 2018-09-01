@@ -1,4 +1,7 @@
 <?php
+
+namespace Extended_Template_Parts;
+
 /**
  * Extended template parts for WordPress.
  *
